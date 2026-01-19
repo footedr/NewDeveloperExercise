@@ -329,5 +329,5 @@ ASALocalRun/
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
 
-NewDeveloperExercise.Web/wwwroot/lib/
+NewDeveloperExercise.Services/src/NewDeveloperExercise.Services.Web/wwwroot/lib/
 NewDeveloperExercise.sqlserver.data
