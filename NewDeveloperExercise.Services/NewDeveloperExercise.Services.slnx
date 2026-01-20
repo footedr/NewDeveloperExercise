@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="../.gitignore" />
+    <File Path="../README.md" />
+  </Folder>
+  <Project Path="src/NewDeveloperExercise.Services.AppHost/NewDeveloperExercise.Services.AppHost.csproj" />
+  <Project Path="src/NewDeveloperExercise.Services.Core/NewDeveloperExercise.Services.Core.csproj" Id="4468ea5f-7420-4bf0-947e-2d55891d0b26" />
+  <Project Path="src/NewDeveloperExercise.Services.Data/NewDeveloperExercise.Services.Data.csproj" Id="bea4bc6d-60b1-4237-93de-42473508a099" />
+  <Project Path="src/NewDeveloperExercise.Services.ServiceDefaults/NewDeveloperExercise.Services.ServiceDefaults.csproj" />
+  <Project Path="src/NewDeveloperExercise.Services.SharedKernel/NewDeveloperExercise.Services.SharedKernel.csproj" Id="84f30598-19ac-4cc6-868a-c33724c02031" />
+  <Project Path="src/NewDeveloperExercise.Services.Web/NewDeveloperExercise.Services.Web.csproj" />
+</Solution>
