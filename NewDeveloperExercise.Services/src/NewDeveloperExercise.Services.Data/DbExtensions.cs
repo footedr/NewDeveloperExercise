@@ -15,6 +15,8 @@ public static class DbExtensions
 			// The default value allows 'dotnet ef migrations bundles' to build.
 			options.ConnectionString = builder.Configuration.GetConnectionString("newdeveloperexercise") ?? "DEFAULT";
 		});
+
+		// Todo: Add DI config for any read models, repos, or workspaces
 	}
 
 	public static async Task InitializeDatabase(this WebApplication app)

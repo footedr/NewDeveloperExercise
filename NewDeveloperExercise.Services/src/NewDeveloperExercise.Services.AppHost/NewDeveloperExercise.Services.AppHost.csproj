@@ -13,10 +13,13 @@
 
   <ItemGroup>
 	  <PackageReference Include="Aspire.Hosting.AppHost" Version="13.1.0" />
+	  <PackageReference Include="Aspire.Hosting.JavaScript" Version="13.1.0" />
 	  <PackageReference Include="Aspire.Hosting.SqlServer" Version="13.1.0" />
+	  <PackageReference Include="CommunityToolkit.Aspire.Hosting.JavaScript.Extensions" Version="13.1.1" />
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\NewDeveloperExercise.Services.Api\NewDeveloperExercise.Services.Api.csproj" />
     <ProjectReference Include="..\NewDeveloperExercise.Services.Web\NewDeveloperExercise.Services.Web.csproj" />
   </ItemGroup>
 

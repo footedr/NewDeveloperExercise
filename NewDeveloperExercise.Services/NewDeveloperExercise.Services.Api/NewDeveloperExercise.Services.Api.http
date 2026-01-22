@@ -1,0 +1,6 @@
+@NewDeveloperExercise.Services.Api_HostAddress = http://localhost:5105
+
+GET {{NewDeveloperExercise.Services.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

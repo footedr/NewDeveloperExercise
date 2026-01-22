@@ -3,6 +3,7 @@
     <File Path="../.gitignore" />
     <File Path="../README.md" />
   </Folder>
+  <Project Path="NewDeveloperExercise.Services.Api/NewDeveloperExercise.Services.Api.csproj" />
   <Project Path="src/NewDeveloperExercise.Services.AppHost/NewDeveloperExercise.Services.AppHost.csproj" />
   <Project Path="src/NewDeveloperExercise.Services.Core/NewDeveloperExercise.Services.Core.csproj" Id="4468ea5f-7420-4bf0-947e-2d55891d0b26" />
   <Project Path="src/NewDeveloperExercise.Services.Data/NewDeveloperExercise.Services.Data.csproj" Id="bea4bc6d-60b1-4237-93de-42473508a099" />
